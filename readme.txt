@@ -1,5 +1,7 @@
 === WP Login Customizer for Chinese ===
 Contributors: suifengtec
+Author URI: http://coolwp.com/
+Donate link: http://coolwp.com/wp-login-customizer-for-chinese.html
 Tags: login, wp-login, customizer, colorpicker, imagepicker, login-customizer, login-page, login-page-customizer, login-logo, wp-login-customizer,custom-login
 Requires at least: 3.9
 Tested up to: 4.7.1
@@ -66,10 +68,15 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Frequently Asked Questions ==
 null.
 
-== Screenshots ==
+== Screenshots == 
 
+1. DEMO1;
+2. DEMO2;
+3. DEMO3;
+
+
+== Upgrade Notice ==
 null.
-
 == Changelog ==
 
 = 1.0.0 =
