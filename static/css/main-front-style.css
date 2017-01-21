@@ -1,0 +1,62 @@
+/* Main stylesheet for plugin */
+
+/* General login styles */
+html, body {
+	height: auto;
+	    -webkit-font-smoothing: subpixel-antialiased;
+}
+
+.clt-login {
+	width: 100%;
+	min-height: 100vh;
+	overflow-y: auto;
+	text-rendering: optimizeLegibility;
+	background-attachment: fixed;
+}
+
+.clt-login iframe {
+	border: none;
+}
+
+.clt-login  #login {
+    display: none;
+}
+
+.clt-body-login {
+	opacity: 0;
+}
+
+.clt-animating {
+	overflow: hidden !important;
+}
+
+.interim-login {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+.interim-login.login h1 a {
+	width: 84px;
+	height: 84px;
+}
+
+#wp-submit{
+    text-shadow: none;
+}
+.submit a,
+#login form label,
+.login #nav a, .login #backtoblog a,
+#wp-submit,
+.login #login_error, .login .message,
+#login form p#reg_passmail,
+.cn-social-login-or
+{
+	font-family:  "Microsoft Yahei","STHeiti Light",-apple-system,"Lucida Grande","Helvetica Neue",Helvetica, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue","Hiragino Sans GB","Hiragino Sans GB W3","WenQuanYi Micro Hei","Hiragino Sans GB","Microsoft Yahei New", sans-serif ;
+
+
+
+}

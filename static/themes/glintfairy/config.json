@@ -1,0 +1,20 @@
+{
+  "options" : {
+    "primary_color" : "#dae4ce",
+
+    "bg_color" : "#BCA480",
+    "font_family" : " ",
+    "font_size" : "18",
+    "font_variations" : [100, 300],
+    "font_color" : "#3a3a3a",
+    "logo_bg_size_type" : "contain",
+    "logo_width" : {"if":"60"},
+    "logo_height" : {"if":"60"},
+    "form_bg_color" : "#fff",
+    "form_padding" : {"top":"50", "right":"50", "bottom":"50", "left":"50"},
+    "form_animation_in" : "zoomInDown",
+    "form_animation_out" : "zoomOutDown",
+    "form_button_color" : "#ffffff",
+    "form_button_bg_color" : "#a3c2be"
+  }
+}

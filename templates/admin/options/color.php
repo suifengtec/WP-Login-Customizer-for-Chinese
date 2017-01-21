@@ -1,0 +1,1 @@
+<input type="text" class="clt-colorpicker" id="<?php echo esc_attr( $id ) ?>" name="<?php echo esc_attr( $id ) ?>" value="<?php echo esc_attr( get_option( $id ) ); ?>"  data-default-color="<?php echo esc_attr( $std ) ?>" data-alpha="true" > <p class="description clt-option-description"><?php echo esc_html($descr) ?></p>
